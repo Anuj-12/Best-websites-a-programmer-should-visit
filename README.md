@@ -598,6 +598,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Coding Blocks](http://www.codingblocks.net) : A podcast covering topics such as best programming practices, design patterns, coding for performance, object-oriented coding, database design and implementation, tips, tricks and a whole lot of other things.
 - [Developer On Fire](http://developeronfire.com/episodes) : A podcast that shares the humanity of developers and tells stories of some of the amazing people in software, hosted by Dave Rael.
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
+- [Embedded.fm](https://embedded.fm/episodes) : An interview based podcast by the author Elecia White which discusses the ongoing work in embedded systems
 - [Front End Happy Hour](http://frontendhappyhour.com) : A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
 - [Full Stack Radio](http://www.fullstackradio.com) : Everything from product design and user experience to unit testing and system administration.
 - [Groovy Podcast](http://groovypodcast.podbean.com) : A podcast dedicated to the Groovy programming language and its ecosystem.
@@ -620,7 +621,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Unchained](unchainedpodcast.co) Podcast to learn about the Blockchain Technology
 - [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions 
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
-- [Embedded.fm](https://embedded.fm/episodes) : An interview based podcast by the author Elecia White which discusses the ongoing work in embedded systems 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
