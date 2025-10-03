@@ -620,6 +620,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Unchained](unchainedpodcast.co) Podcast to learn about the Blockchain Technology
 - [Talk python to me](https://talkpython.fm/) Podcast to learn about Python through interviews and discussions 
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
+- [Embedded.fm](https://embedded.fm/episodes) : An interview based podcast by the author Elecia White which discusses the ongoing work in embedded systems 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
